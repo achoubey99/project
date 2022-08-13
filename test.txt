@@ -1,0 +1,11 @@
+User::getCName_UT : OK
+User::getCPhno_UT : OK
+User::getAge_UT : assertion
+Client_UT.cpp:30:Assertion
+Test name: User::getAge_UT
+equality assertion failed
+- Expected: 23
+- Actual  : 24
+
+Failures !!!
+Run: 3   Failure total: 1   Failures: 1   Errors: 0
